@@ -1,12 +1,12 @@
-title: John Smith
+title: Marina
 description: My Personal Blog
-author: John Smith
+author: Marina
 logo: /hcz-jekyll-blog/static/img/avatar.png
-github: https://github.com/codeasashu
-about: Freelance developer
+github: https://github.com/Marina-Ma/Marina-Ma.github.io
+about: learn to learn
 
-baseurl: "https://codeasashu.github.io/hcz-jekyll-blog"
-url: "https://codeasashu.github.io/hcz-jekyll-blog"
+baseurl: "https://github.com/Marina-Ma/Marina-Ma.github.io"
+url: "https://github.com/Marina-Ma/Marina-Ma.github.io"
 
 allowsearch: true
 
