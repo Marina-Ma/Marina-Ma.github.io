@@ -1,8 +1,8 @@
 ---
 layout: post
-title: The Best Organizer Software
-date: 2017-09-12 00:00:00 +0300
-description: Software (optional)
+title: How to create GitHub page
+date: 2017-10-26 17:00:00 +0300
+description: 用GitHub管理文章的版本，用GitHub page作为Blog，自动发布文章。只享受写作的过程，让写作飞起来！ # Add post description (optional)
 img: software.jpg # Add image post (optional)
 tags: [Productivity, Software] # add tag
 ---
@@ -36,4 +36,3 @@ C:\Users\Administrator\Documents\GitHub\username（你的用户名）.github.io
 
 1. commit
 打开GitHub桌面软件，切换到change目录下，可以看到刚刚复制的文件已经在change下显示，这时候commit to master就可以，点击同步，网页会同步更新
-
