@@ -18,7 +18,7 @@ tags: [Productivity] # add tag
 
 ## emoji(适用于GitHub)
 
-  如果是GitHub写作，只要调用“：”就可以了。如果要在GitHub page中显示emoji，还要注意_config.yml中有[这样的设置](https://help.github.com/articles/emoji-on-github-pages/)。
+  如果是GitHub写作，只要调用“：”就可以了。如果要在Jekyll中显示emoji，还要注意_config.yml中要这样[设置](https://help.github.com/articles/emoji-on-github-pages/)。
 
   在Atom里编辑emoji，需要添加一个package—[autocomplete-emojis](https://atom.io/packages/autocomplete-emojis)，输入“::”，就可以调用Markdown emoji了:smiley:
 
@@ -31,9 +31,9 @@ tags: [Productivity] # add tag
 
   **Markdown呈现样式**
 
-  软件|Atom  |简书  |为知
-  -|-----|  ----| ----|
-  功能|编辑|写作 |知识管理
+  |Softwa|Atom  |Jianshu|Weizhi|
+  |------|------|------| ----|
+  |Function|Edit|write |knowledge management|
 
 ## Highlight(适用于GitHub，但Atom中无法显示)
 

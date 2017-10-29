@@ -52,4 +52,6 @@ img: how-to-start.jpg # Add image post (optional)
 tags: [Productivity, Software] # add tag
 ---
 
-3. [官方jekyll配置说明](https://help.github.com/articles/configuring-jekyll/)
+[官方jekyll配置说明](https://help.github.com/articles/configuring-jekyll/)
+
+[Adding Jekyll plugins to a GitHub Pages site](https://help.github.com/articles/adding-jekyll-plugins-to-a-github-pages-site/)
