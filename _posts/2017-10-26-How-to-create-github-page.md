@@ -26,8 +26,8 @@ GitHub是Git+Hub的组合。那什么是Git呢？Git是分布式版本控制系�
 
 1. jekyll安装
 Jekyll 帮你轻松的搭建你的静态网页
-[jekyll官网说明]（http://jekyll.com.cn/）
-[jekyll环境安装]（http://jekyll.com.cn/docs/installation/）
+[jekyll官网说明](http://jekyll.com.cn/)
+[jekyll环境安装](http://jekyll.com.cn/docs/installation/)
 
 1. 下载jekyll主题
 http://jekyllthemes.org/
@@ -35,4 +35,19 @@ http://jekyllthemes.org/
 C:\Users\Administrator\Documents\GitHub\username（你的用户名）.github.io
 
 1. commit
-打开GitHub桌面软件，切换到change目录下，可以看到刚刚复制的文件已经在change下显示，这时候commit to master就可以，点击同步，网页会同步更新
+打开GitHub桌面软件，切换到change目录下，可以看到刚刚复制的文件已经在change下显示(有显示说明有修改)，这时候commit to master就可以（也就是同意改动），点击同步，网页会同步更新
+
+### 修改jekyll theme
+
+复制来的主题，通常是要修改的
+1. Blog名称，博客介绍，个人介绍，个人照片：在_config.yml中修改
+2. 添加自己的文章：在_posts下添加，标题必须是英文的“year-month-day-title”。有些童鞋想要中文的title怎么办，是有代码的，我复制的Blog已经写好了，其它的模板不好说，楼主不懂代码:cry:
+比如我的每篇文章开头就有以下代码，可以将title改为中文的。
+>---
+layout: post
+title: How to create GitHub page
+date: 2017-10-26 17:00:00 +0300
+description: 用GitHub管理文章的版本，用GitHub page作为Blog，自动发布文章。只享受写作的过程，让写作飞起来！ # Add post description (optional)
+img: how-to-start.jpg # Add image post (optional)
+tags: [Productivity, Software] # add tag
+---
