@@ -25,7 +25,7 @@ tags: [Productivity] # add tag
 ## 表格(适用于GitHub)
   **Markdown写法**
 
-  ![table](assets/img/markdown-img-paste-20171026124630773.png)
+  ![table](https://github.com/Marina-Ma/Marina-Ma.github.io/blob/master/assets/img/markdown-img-paste-20171026113646668.png)
 
   **Markdown呈现样式**
 
@@ -46,7 +46,7 @@ tags: [Productivity] # add tag
 
   **Markdown写法**
 
-![font](assets/markdown-img-paste-2017102612053162.png)
+![font]()
 
   **Markdown呈现样式**
 
