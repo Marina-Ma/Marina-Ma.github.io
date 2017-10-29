@@ -1,10 +1,9 @@
-
 ---
 layout: post
 title: 怎样用Markdown写作
 date: 2017-10-26 21:00:00 +0300
 description: Markdown是一种简单的语言，用它写作，就不用总想着用什么格式去修改。让写作回归写作的本质。 # Add post description (optional)
-img: how-to-start.jpg # Add image post (optional)
+img: software.jpg # Add image post (optional)
 tags: [Productivity] # add tag
 ---
 

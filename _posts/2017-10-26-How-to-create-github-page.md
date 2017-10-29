@@ -3,7 +3,7 @@ layout: post
 title: How to create GitHub page
 date: 2017-10-26 17:00:00 +0300
 description: 用GitHub管理文章的版本，用GitHub page作为Blog，自动发布文章。只享受写作的过程，让写作飞起来！ # Add post description (optional)
-img: software.jpg # Add image post (optional)
+img: how-to-start.jpg # Add image post (optional)
 tags: [Productivity, Software] # add tag
 ---
 
