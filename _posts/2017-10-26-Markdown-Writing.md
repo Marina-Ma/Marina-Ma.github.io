@@ -25,7 +25,7 @@ tags: [Productivity] # add tag
 ## 表格(适用于GitHub)
   **Markdown写法**
 
-  ![table](assets/img/markdown-img-paste-20171026124630773.png)
+  ![table](assets/markdown-img-paste-20171026124630773.png)
 
   **Markdown呈现样式**
 
@@ -35,7 +35,7 @@ tags: [Productivity] # add tag
 
 ## Highlight(适用于GitHub，但Atom中无法显示)
 
-![highlight](assets/markdown-img-paste-20171029125144420.png)
+![Highlight](assets/markdown-img-paste-20171026133106904.png)
 
 ```diff
 + 加号代表highlight绿色
@@ -46,13 +46,22 @@ tags: [Productivity] # add tag
 
   **Markdown写法**
 
+![font](assets/markdown-img-paste-2017102612053162.png)
 
+  **Markdown呈现样式**
+
+  1. <font face="黑体">我是黑体</font>
+  1. <font face="微软雅黑">我是微软雅黑</font>
+  1. <font color=#FF0000 face="宋体">我是红色宋体</font>
+  1. <font color=gray size=5>我是灰色</font>
+
+  另外颜色可以在这个网站查询[RGB颜色参考](http://tool.oschina.net/commons?type=3)
 
 ## 底色/背景色(不适用于GitHub)
 
   **Markdown写法**
 
-![背景色](assets/img/markdown-img-paste-20171026125110889.png)
+![背景色](assets/markdown-img-paste-20171026125110889.png)
 
   **Markdown呈现样式**
   <table><tr><td bgcolor=#0e88e3>这里的背景色是#0e88e3</td></tr></table>
