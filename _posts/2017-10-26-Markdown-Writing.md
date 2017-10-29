@@ -25,7 +25,7 @@ tags: [Productivity] # add tag
 ## 表格(适用于GitHub)
   **Markdown写法**
 
-  ![table](assets/markdown-img-paste-20171026124630773.png)
+  ![table](assets/img/markdown-img-paste-20171026124630773.png)
 
   **Markdown呈现样式**
 
