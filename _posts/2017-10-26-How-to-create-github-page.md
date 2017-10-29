@@ -37,7 +37,7 @@ C:\Users\Administrator\Documents\GitHub\username（你的用户名）.github.io
 1. commit
 打开GitHub桌面软件，切换到change目录下，可以看到刚刚复制的文件已经在change下显示(有显示说明有修改)，这时候commit to master就可以（也就是同意改动），点击同步，网页会同步更新
 
-### 修改jekyll theme
+### 配置jekyll theme
 
 复制来的主题，通常是要修改的
 1. Blog名称，博客介绍，个人介绍，个人照片：在_config.yml中修改
@@ -51,3 +51,5 @@ description: 用GitHub管理文章的版本，用GitHub page作为Blog，自动�
 img: how-to-start.jpg # Add image post (optional)
 tags: [Productivity, Software] # add tag
 ---
+
+3. [官方jekyll配置说明](https://help.github.com/articles/configuring-jekyll/)

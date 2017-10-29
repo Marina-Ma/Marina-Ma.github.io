@@ -18,7 +18,9 @@ tags: [Productivity] # add tag
 
 ## emoji(适用于GitHub)
 
-  如果是GitHub写作，只要调用“：”就可以了。在Atom里，要添加一个package—[autocomplete-emojis](https://atom.io/packages/autocomplete-emojis)，输入“:s”，就可以调用了:smiley:
+  如果是GitHub写作，只要调用“：”就可以了。如果要在GitHub page中显示emoji，还要注意_config.yml中有[这样的设置](https://help.github.com/articles/emoji-on-github-pages/)。
+
+  在Atom里编辑emoji，需要添加一个package—[autocomplete-emojis](https://atom.io/packages/autocomplete-emojis)，输入“::”，就可以调用Markdown emoji了:smiley:
 
 有哪些emoji可以用呢？来看看[小抄表](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
 

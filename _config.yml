@@ -28,6 +28,10 @@ markdown: kramdown
 plugins:
   - jekyll-sitemap
   - jekyll-paginate
+  - jekyll-mentions
+  - jemoji
+  - jekyll-redirect-from
+  
 
 paginate: 8
 paginate_path: "/page/:num"
