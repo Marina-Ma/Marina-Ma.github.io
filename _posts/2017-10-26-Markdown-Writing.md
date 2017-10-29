@@ -35,7 +35,7 @@ tags: [Productivity] # add tag
 
 ## Highlight(适用于GitHub，但Atom中无法显示)
 
-![Highlight](assets/img/markdown-img-paste-20171026133106904.png)
+![Highlight](https://github.com/Marina-Ma/Marina-Ma.github.io/blob/master/assets/img/markdown-img-paste-20171026133106904.png)
 
 ```diff
 + 加号代表highlight绿色
@@ -46,7 +46,7 @@ tags: [Productivity] # add tag
 
   **Markdown写法**
 
-![font]()
+![font](https://github.com/Marina-Ma/Marina-Ma.github.io/blob/master/assets/img/markdown-img-paste-2017102612053162.png)
 
   **Markdown呈现样式**
 
@@ -61,7 +61,7 @@ tags: [Productivity] # add tag
 
   **Markdown写法**
 
-![背景色](assets/img/markdown-img-paste-20171026125110889.png)
+![背景色](https://github.com/Marina-Ma/Marina-Ma.github.io/blob/master/assets/img/markdown-img-paste-20171026125110889.png)
 
   **Markdown呈现样式**
   <table><tr><td bgcolor=#0e88e3>这里的背景色是#0e88e3</td></tr></table>
