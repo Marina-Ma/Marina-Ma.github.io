@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Best Organizer Software
+title: How to create github page
 date: 2017-09-12 00:00:00 +0300
 description: Software (optional)
 img: software.jpg # Add image post (optional)
