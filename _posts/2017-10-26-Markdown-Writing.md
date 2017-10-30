@@ -7,7 +7,7 @@ img: software.jpg # Add image post (optional)
 tags: [Productivity] # add tag
 ---
 
-先看三篇文章
+先看三篇文章：
 1. 用 Markdown 写作的好处见  [Markdown写作浅谈](http://mp.weixin.qq.com/s/HsPZLl60vjbEKEbT2HHH7A)
 2. Markdown 语法指南见  [Mastering Markdown · GitHub Guides](https://guides.github.com/features/mastering-markdown/)。
 3. Atom是开源的，支持很多Markdown packages，可以扩展一些很赞的功能，Markdown的预览，以及插入图片，看这篇文章就知道啦：[使用Atom打造无懈可击的Markdown编辑器](http://www.cnblogs.com/libin-1/p/6638165.html)。
