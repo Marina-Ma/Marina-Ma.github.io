@@ -27,7 +27,7 @@ tags: [Productivity] # add tag
 ## 表格(适用于GitHub)
   **Markdown写法**
 
-  ![table](https://github.com/Marina-Ma/Marina-Ma.github.io/blob/master/assets/img/markdown-img-paste-20171026113646668.png)
+  ![table](https://github.com/Marina-Ma/Marina-Ma.github.io/blob/master/assets/img/markdown-img-paste-20171026113646668.png?raw=true)
 
   **Markdown呈现样式**
 
@@ -37,7 +37,7 @@ tags: [Productivity] # add tag
 
 ## Highlight(适用于GitHub，但Atom中无法显示)
 
-![Highlight](https://github.com/Marina-Ma/Marina-Ma.github.io/blob/master/assets/img/markdown-img-paste-20171026133106904.png)
+![Highlight](https://github.com/Marina-Ma/Marina-Ma.github.io/blob/master/assets/img/markdown-img-paste-20171026133106904.png?raw=true)
 
 ```diff
 + 加号代表highlight绿色
@@ -48,7 +48,7 @@ tags: [Productivity] # add tag
 
   **Markdown写法**
 
-![font](https://github.com/Marina-Ma/Marina-Ma.github.io/blob/master/assets/img/markdown-img-paste-2017102612053162.png)
+![font](https://github.com/Marina-Ma/Marina-Ma.github.io/blob/master/assets/img/markdown-img-paste-2017102612053162.png?raw=true)
 
   **Markdown呈现样式**
 
@@ -63,7 +63,7 @@ tags: [Productivity] # add tag
 
   **Markdown写法**
 
-![背景色](https://github.com/Marina-Ma/Marina-Ma.github.io/blob/master/assets/img/markdown-img-paste-20171026125110889.png)
+![背景色](https://github.com/Marina-Ma/Marina-Ma.github.io/blob/master/assets/img/markdown-img-paste-20171026125110889.png?raw=true)
 
   **Markdown呈现样式**
   <table><tr><td bgcolor=#0e88e3>这里的背景色是#0e88e3</td></tr></table>

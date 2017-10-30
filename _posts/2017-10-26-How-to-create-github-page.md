@@ -55,3 +55,25 @@ tags: [Productivity, Software] # add tag
 [官方jekyll配置说明](https://help.github.com/articles/configuring-jekyll/)
 
 [Adding Jekyll plugins to a GitHub Pages site](https://help.github.com/articles/adding-jekyll-plugins-to-a-github-pages-site/)
+
+
+### 遇到的一些问题
+
+1. 插入的图片在GitHub能显示，在jekyll上不能显示，在图片结尾增加:
+```
+?raw=true
+```
+
+>Provided that you have the image in your repo, you can use a relative URL:
+>
+>```![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")```
+>
+>If you need to embed an image that's hosted elsewhere, you can use a full URL
+>
+>```![Alt text](http://full/path/to/img.jpg "Optional title")```
+>
+>GitHub recommend that you use relative links with the ?raw=true parameter to ensure forked repos point correctly.
+>
+> 引用来源 https://stackoverflow.com/questions/10189356/how-to-add-screenshot-to-readmes-in-github-repository
+
+2.
