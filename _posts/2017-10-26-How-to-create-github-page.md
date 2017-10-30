@@ -19,7 +19,7 @@ GitHub是Git+Hub的组合。那什么是Git呢？Git是分布式版本控制系�
 ### 如何使用GitHub建立简单的Blog
 
 教程真的很多，对计算机语言不熟悉的童鞋，学习成本还是比较高的。如果只是作为版本控制，只需要建立file，没有必要建立Blog了。
-那如果要建立Blog怎么做呢？（该教程不涉及编程，因为楼主不会 哭）
+那如果要建立Blog怎么做呢？（该教程不涉及编程，因为楼主不会:cry:）
 
 1. follow以下网址的每一步骤：https://pages.github.com/
    需要注意的是“What git client are you using?”，刚介绍了git是一套系统，需要运行在一个客户端，选择“I don't know”，网页会提示你下载什么客户端的。
@@ -43,14 +43,11 @@ C:\Users\Administrator\Documents\GitHub\username（你的用户名）.github.io
 1. Blog名称，博客介绍，个人介绍，个人照片：在_config.yml中修改
 2. 添加自己的文章：在_posts下添加，标题必须是英文的“year-month-day-title”。有些童鞋想要中文的title怎么办，是有代码的，我复制的Blog已经写好了，其它的模板不好说，楼主不懂代码:cry:
 比如我的每篇文章开头就有以下代码，可以将title改为中文的。
->---
+```
 layout: post
 title: How to create GitHub page
 date: 2017-10-26 17:00:00 +0300
-description: 用GitHub管理文章的版本，用GitHub page作为Blog，自动发布文章。只享受写作的过程，让写作飞起来！ # Add post description (optional)
-img: how-to-start.jpg # Add image post (optional)
-tags: [Productivity, Software] # add tag
----
+```
 
 [官方jekyll配置说明](https://help.github.com/articles/configuring-jekyll/)
 
@@ -59,10 +56,8 @@ tags: [Productivity, Software] # add tag
 
 ### 遇到的一些问题
 
-1. 插入的图片在GitHub能显示，在jekyll上不能显示，在图片结尾增加:
-```
-?raw=true
-```
+1. 插入的图片在GitHub能显示，在jekyll上不能显示，在图片结尾增加"?raw=true"
+
 
 >Provided that you have the image in your repo, you can use a relative URL:
 >
@@ -75,5 +70,3 @@ tags: [Productivity, Software] # add tag
 >GitHub recommend that you use relative links with the ?raw=true parameter to ensure forked repos point correctly.
 >
 > 引用来源 https://stackoverflow.com/questions/10189356/how-to-add-screenshot-to-readmes-in-github-repository
-
-2.
