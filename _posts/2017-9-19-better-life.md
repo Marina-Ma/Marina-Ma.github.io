@@ -2,7 +2,7 @@
 layout: post
 title: 奇特的一生
 date: 2017-9-19 21:00:00 +0300
-description:  # Add post description (optional)
+description: 我们应该如何与时间相处？是去掌控它吗？前苏联生物分类学家，柳比歇夫用了一种新的方式来和时间友好相处。  # Add post description (optional)
 img: timeball.jpg # Add image post (optional)
 tags: [Reading] # add tag
 ---
