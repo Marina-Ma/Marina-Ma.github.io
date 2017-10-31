@@ -56,9 +56,7 @@ date: 2017-10-26 17:00:00 +0300
 
 ### 遇到的一些问题
 
-1. 插入的图片在GitHub能显示，在jekyll上不能显示，在图片结尾增加"?raw=true"
-
-
+###### 1. 插入的图片在GitHub能显示，在jekyll上不能显示，在图片结尾增加"?raw=true"。
 >Provided that you have the image in your repo, you can use a relative URL:
 >
 >```![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")```
@@ -71,12 +69,10 @@ date: 2017-10-26 17:00:00 +0300
 >
 > 引用来源 https://stackoverflow.com/questions/10189356/how-to-add-screenshot-to-readmes-in-github-repository
 
-2. 文章目录页引用文章内容的前几行
-
-比如：
+###### 2. 文章目录页引用文章内容的前几行
 
 ![thumbnail text](assets/markdown-img-paste-20171031130247102.png)
 
-在index.html中注意以下引用的code，truncate是引用的字符个数，而truncatewords是引用的单词个数，大概是编码规则不一样，导致会有各种问题产生，当我设置到```turncate:200```的时候，就没什么问题了。
+在index.html中注意以下code。truncate是引用的字符个数，而truncatewords是引用的单词个数，大概是编码规则不一样，导致会有各种问题产生，当我设置```turncate:200```的时候，就没什么问题了。
 
 ```{{post.content | strip_html | truncate:200}}```
