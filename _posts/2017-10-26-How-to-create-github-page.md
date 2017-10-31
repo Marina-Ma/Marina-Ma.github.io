@@ -71,7 +71,7 @@ date: 2017-10-26 17:00:00 +0300
 
 ###### 2. 文章目录页引用文章内容的前几行
 
-![thumbnail text](assets/markdown-img-paste-20171031130247102.png)
+![thumbnail text](assets/markdown-img-paste-20171031130247102.png?raw=true)
 
 在index.html中注意以下code。truncate是引用的字符个数，而truncatewords是引用的单词个数，大概是编码规则不一样，导致会有各种问题产生，当我设置```turncate:200```的时候，就没什么问题了。
 
