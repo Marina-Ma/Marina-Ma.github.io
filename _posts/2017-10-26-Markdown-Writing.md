@@ -7,6 +7,8 @@ img: software.jpg # Add image post (optional)
 tags: [Productivity] # add tag
 ---
 
+Markdown是一种简单的语言，用它写作，就不用总想着用什么格式去修改。让写作回归写作的本质。
+
 先看三篇文章：
 1. 用 Markdown 写作的好处见  [Markdown写作浅谈](http://mp.weixin.qq.com/s/HsPZLl60vjbEKEbT2HHH7A)
 2. Markdown 语法指南见  [Mastering Markdown · GitHub Guides](https://guides.github.com/features/mastering-markdown/)。
@@ -69,5 +71,3 @@ tags: [Productivity] # add tag
   <table><tr><td bgcolor=#0e88e3>这里的背景色是#0e88e3</td></tr></table>
 
   配色参考[Color Palettes Color Schemes](http://www.color-hex.com/color-palettes/)
-
-*该帖不定期更新*

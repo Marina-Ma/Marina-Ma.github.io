@@ -39,7 +39,7 @@ C:\Users\Administrator\Documents\GitHub\username（你的用户名）.github.io
 
 ### 配置jekyll theme
 
-复制来的主题，通常是要修改的
+复制来的主题，通常是要修改的：
 1. Blog名称，博客介绍，个人介绍，个人照片：在_config.yml中修改
 2. 添加自己的文章：在_posts下添加，标题必须是英文的“year-month-day-title”。有些童鞋想要中文的title怎么办，是有代码的，我复制的Blog已经写好了，其它的模板不好说，楼主不懂代码:cry:
 比如我的每篇文章开头就有以下代码，可以将title改为中文的。
@@ -70,3 +70,13 @@ date: 2017-10-26 17:00:00 +0300
 >GitHub recommend that you use relative links with the ?raw=true parameter to ensure forked repos point correctly.
 >
 > 引用来源 https://stackoverflow.com/questions/10189356/how-to-add-screenshot-to-readmes-in-github-repository
+
+2. 文章目录页引用文章内容的前几行
+
+比如：
+
+![thumbnail text](assets/markdown-img-paste-20171031130247102.png)
+
+在index.html中注意以下引用的code，truncate是引用的字符个数，而truncatewords是引用的单词个数，大概是编码规则不一样，导致会有各种问题产生，当我设置到```turncate:200```的时候，就没什么问题了。
+
+```{{post.content | strip_html | truncate:200}}```
