@@ -1,5 +1,7 @@
 # Flexible-Jekyll is a simple and clean theme for Jekyll
 
+My blog is https://marina-ma.github.io/. Theme is Flexible-Jekyll. I really love the theme
+
 ![](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/promo-img.jpg?raw=true)
 
 ## Demo
