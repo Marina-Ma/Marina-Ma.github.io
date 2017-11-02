@@ -3,7 +3,7 @@ layout: post
 title: 吃的真相
 date: 2012-10-8 21:00:00 +0300
 description: 你真的懂怎么吃才是健康的吗？  # Add post description (optional)
-img: food.JPG # Add image post (optional)
+img: food.jpg # Add image post (optional)
 tags: [Reading] # add tag
 ---
 这是以前的一篇旧文了，这么多年过去了，我还是没有坚持健康的饮食呀
@@ -24,10 +24,7 @@ tags: [Reading] # add tag
 
 大家已经了解到 co2 的危害，而油脂产生的 co2 少，自然是吃油对身体更好。当然我们要吃的是好油，不是地沟油、转化油。饱和油，比如猪油、牛油、棕榈油等，用于高温热炒、煎炸；不饱和油可以凉拌用，因高温下会变成转化油；转化油不要吃，会引起肥胖等等。正确的饮食，是要注意各类食物的配比，如图中所示：
 
-![eat](assets/markdown-img-paste-20171102142405886.png?raw=true)
-
-![](assets/markdown-img-paste-20171102150307246.png)
-
+![eat](assets/markdown-img-paste-20171102155759803.png)
 
 
 另外，可以做一些排酸水的运动。酸水主要在肌肉深层或骨节、筋腱之中，你坐着它是不会跑出来的，书中推荐了一种方法：伸展后定位，尽可能伸展身体，酸水会受到挤压往外慢慢移动，伸展后定位，再放松，如同扭毛巾一样把酸水挤出来。气功瑜伽也是可以的。
