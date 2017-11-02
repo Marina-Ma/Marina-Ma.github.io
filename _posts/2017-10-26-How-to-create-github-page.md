@@ -40,14 +40,16 @@ C:\Users\Administrator\Documents\GitHub\username（你的用户名）.github.io
 ### 配置 Jekyll 主题
 
 复制来的主题，通常是要修改的：
-1. Blog名称，博客介绍，个人介绍，个人照片：在 _config.yml 中修改
-2. 添加自己的文章：在 _posts 下添加，标题必须是英文的 “year-month-day-title”。有些童鞋想要中文的 title 怎么办，是有代码的，我复制的 Blog 已经写好了，其它的模板不好说，楼主不懂代码:cry:
+1. Blog名称、博客介绍、个人介绍、个人照片，在 _config.yml 中修改
+2. 添加文章，在 _posts 下添加，标题必须是英文的 “year-month-day-title”。有些童鞋想要中文的 title 怎么办，是有代码的，我复制的 Blog 已经写好了，其它的模板不好说，楼主不懂代码:cry:
 比如我的每篇文章开头就有以下代码，可以将 title 改为中文的。
 ```
 layout: post
 title: How to create GitHub page
 date: 2017-10-26 17:00:00 +0300
 ```
+
+参考链接：
 
 [官方 Jekyll 配置说明](https://help.github.com/articles/configuring-Jekyll/)
 
@@ -56,7 +58,7 @@ date: 2017-10-26 17:00:00 +0300
 
 ### 遇到的一些问题
 
-###### 1. 插入的图片在 GitHub能显示，在 Jekyll上不能显示，在图片结尾增加 ```?raw=true```。
+###### 1. 插入的图片在 GitHub能显示，在 Jekyll 上不能显示，在图片结尾增加 ```?raw=true```。
 
 >Provided that you have the image in your repo, you can use a relative URL:
 >
@@ -74,7 +76,7 @@ date: 2017-10-26 17:00:00 +0300
 
 ![thumbnail text](assets/markdown-img-paste-20171031130247102.png?raw=true)
 
-在 index.html 中注意以下 code。truncate是引用的字符个数，而truncatewords是引用的单词个数，大概是编码规则不一样，导致会有各种问题产生，当我设置 ```turncate:200``` 的时候，就没什么问题了。
+在 index.html 中注意以下 code。truncate 是引用的字符个数，而 truncatewords 是引用的单词个数，大概是编码规则不一样，导致会有各种问题产生，当我设置 ```turncate:200``` 的时候，就没什么问题了。
 
 ```{{post.content | strip_html | truncate:200}}```
 
