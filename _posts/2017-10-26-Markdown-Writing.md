@@ -18,7 +18,7 @@ Markdown 是一种简单的语言，用它写作，就不用总想着用什么�
 
 另外值得注意的是，GitHub Guides中没有提到 'color', 'css', 'html', or 'style'，因此用这些写的无法在 GitHub 上显示；下面的举例中，也会明确指出哪些适用于 GitHub，哪些不适用。
 
-## emoji(适用于 GitHub)
+## emoji适用于（GitHub）
 
   如果是 GitHub写作，只要调用“：”就可以了。如果要在 Jekyll 中显示 emoji，还要注意 _config.yml中要这样[设置](https://help.github.com/articles/emoji-on-github-pages/)。
 
@@ -26,7 +26,7 @@ Markdown 是一种简单的语言，用它写作，就不用总想着用什么�
 
 有哪些 emoji 可以用呢？来看看[小抄表](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
 
-## 表格(适用于 GitHub)
+## 表格（适用于 GitHub）
   **Markdown 写法**
 
   ![table](https://github.com/Marina-Ma/Marina-Ma.github.io/blob/master/assets/img/markdown-img-paste-20171026113646668.png?raw=true)
@@ -37,7 +37,7 @@ Markdown 是一种简单的语言，用它写作，就不用总想着用什么�
   |------|------|------| ----|
   |Function|Edit|write |knowledge management|
 
-## Highlight(适用于 GitHub)
+## Highlight（适用于 GitHub）
 
 ![Highlight](https://github.com/Marina-Ma/Marina-Ma.github.io/blob/master/assets/img/markdown-img-paste-20171026133106904.png?raw=true)
 
@@ -70,7 +70,7 @@ Markdown 是一种简单的语言，用它写作，就不用总想着用什么�
 
   另外颜色可以在这个网站查询[RGB颜色参考](http://tool.oschina.net/commons?type=3)
 
-## 底色/背景色(不适用于 GitHub)
+## 底色/背景色（不适用于 GitHub）
 
   **Markdown 写法**
 
