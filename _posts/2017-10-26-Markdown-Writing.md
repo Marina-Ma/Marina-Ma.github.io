@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 怎样用Markdown写作
+title: 怎样用Atom+Markdown写作
 date: 2017-10-26 21:00:00 +0300
 description: Markdown是一种简单的语言，用它写作，就不用总想着用什么格式去修改。让写作回归写作的本质。 # Add post description (optional)
 img: software.jpg # Add image post (optional)
@@ -45,6 +45,15 @@ Markdown是一种简单的语言，用它写作，就不用总想着用什么格
 + 加号代表highlight绿色
 - 减号代表highlight红色
 ```
+
+## 粘贴照片
+
+为了快速粘贴剪切的照片，先在Atom设置中下载[markdown-img-paste](https://atom.io/packages/markdown-img-paste)，并注册千牛云，按提示输入配置，其中域名只要用测试域名就可以了。
+
+为什么不拷贝截图后直接粘贴，而要用千牛云呢，因为照片的路径无法在 Jekyll 页面上显示，只能在 GitHub 上显示。```Markdown-img-paste```默认粘贴的照片储存在```_post/assets```下，Jekyll直接找到```assets```上去找图片，是肯定找不到的。最好的解决方案还是用```Markdown-img-paste```+千牛
+
+![img-paste-setting](http://oysqcklir.bkt.clouddn.com/markdown-img-paste-20171103004943248.png)
+
 
 ## 字体(不适用于GitHub)
 
