@@ -1,10 +1,10 @@
 ---
 layout: post
 title: 爱上学习
-date: 2017-11-3 21:00:00 +0300
-description: 在学校的时候不愿意好好学，毕业了，却慢慢爱上了学习:smiley:  # Add post description (optional)
+date: 2017-11-03 21:00:00 +0300
+description: 在这个年纪，重新开始爱上学习。 # Add post description (optional)
 img: learn.jpeg # Add image post (optional)
-tags: [Reading] # add tag
+tags: [learn] # add tag
 ---
 
 最近一年流行一个词叫“焦虑”，和学习有关的焦虑又叫“知识焦虑”，高级点叫“认知焦虑”。有此焦虑症的人，朋友圈表现为打卡学习，比如打卡读英文原版书，还很喜欢转发各种内容付费群组。然而这样坚持一段时间后，打卡贴总会自然而然销声匿迹。我们都经历过这样的学习怪圈，誓言今年学会XXX，找各种学习资料、学习方法，坚持一段时间，甚至长不过一礼拜，就因为各种原因结束了。

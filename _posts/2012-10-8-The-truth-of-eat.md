@@ -4,7 +4,7 @@ title: 吃的真相
 date: 2012-10-8 21:00:00 +0300
 description: 你真的懂怎么吃才是健康的吗？  # Add post description (optional)
 img: food.jpg # Add image post (optional)
-tags: [Reading] # add tag
+tags: [learn] # add tag
 ---
 这是以前的一篇旧文了，这么多年过去了，我果然没有坚持健康的饮食呀:cry:
 

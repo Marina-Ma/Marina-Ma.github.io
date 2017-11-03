@@ -4,7 +4,7 @@ title: 奇特的一生
 date: 2017-9-19 21:00:00 +0300
 description: 我们应该如何与时间相处？是去掌控它吗？前苏联生物分类学家，柳比歇夫用了一种新的方式来和时间友好相处。  # Add post description (optional)
 img: timeball.jpg # Add image post (optional)
-tags: [Reading] # add tag
+tags: [learn] # add tag
 ---
 
 柳比歇夫是一个前苏联生物分类学家，除了主业外他还做了很多别的事情，还不是一般意义的多；他的工作规模已经相当于咨询、救济总局、学术服务局那样的机关。平时还要回复完全不认识的人的求教，学术评论等等，有一年他就收到了400多封信件。

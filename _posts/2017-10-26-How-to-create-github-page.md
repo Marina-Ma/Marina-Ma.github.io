@@ -4,7 +4,7 @@ title: How to create GitHub page
 date: 2017-10-26 17:00:00 +0300
 description: 用 GitHub 管理文章的版本，用 GitHub page 作为 Blog，自动发布文章。只享受写作的过程，让写作飞起来！ # Add post description (optional)
 img: how-to-start.jpg # Add image post (optional)
-tags: [Productivity, Software] # add tag
+tags: [Productivity] # add tag
 ---
 
 GitHub是Git+Hub的组合。那什么是Git呢？Git是分布式版本控制系统，GitHub正是基于Git开发的。
