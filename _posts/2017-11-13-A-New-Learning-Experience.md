@@ -3,7 +3,7 @@ layout: post
 title: 一次新的学习体验：「学习的原理」线上课程
 date: 2017-11-13 21:00:00 +0300
 description: 第一次体验这样的线上小组共学模式，影响良多。 # Add post description (optional)
-img: A New Learning Experience.jpeg # Add image post (optional)
+img: Learning.jpeg # Add image post (optional)
 tags: [learn] # add tag
 ---
 
